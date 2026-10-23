@@ -2071,7 +2071,8 @@ button {
   .chip--2 { right: -10px; font-size: 0.75rem; padding: 0.45rem 0.75rem; }
   .chip--3 { bottom: -10px; left: 10%; font-size: 0.75rem; padding: 0.45rem 0.75rem; }
 
-  .hero__buttons .btn {
+  .hero__buttons .btn,
+  .project-card__actions .btn {
     width: 100%;
   }
 

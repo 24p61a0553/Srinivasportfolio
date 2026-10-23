@@ -73,7 +73,7 @@ Srinivasportfolio/
    - Featured full-stack project showcase for **Personal Expense Tracker** (`https://github.com/24p61a0553/personalexpensetracker`).
    - Browser mockup preview frame with modern macOS window styling and emerald accents.
    - Comprehensive project overview, technical details, and technology stack pills (Java 17, Servlets, JDBC, MySQL, Docker, Tomcat, Chart.js).
-   - Direct link to the source code on GitHub.
+   - Action buttons linking to the live public web deployment (`https://personalexpensetracker-ir54.onrender.com/`) and the GitHub repository.
 
 5. **Education**:
    - Interactive academic timeline.
