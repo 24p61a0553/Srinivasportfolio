@@ -1133,6 +1133,10 @@ button {
   background: radial-gradient(circle at center, rgba(6, 182, 212, 0.15) 0%, rgba(17, 24, 39, 0.95) 80%);
 }
 
+.mockup-variant-4 .mockup-body {
+  background: radial-gradient(circle at center, rgba(16, 185, 129, 0.15) 0%, rgba(17, 24, 39, 0.95) 80%);
+}
+
 .mockup-icon {
   font-size: 2.5rem;
   color: var(--accent-purple-light);
@@ -1145,6 +1149,10 @@ button {
 
 .mockup-variant-3 .mockup-icon {
   color: var(--accent-cyan);
+}
+
+.mockup-variant-4 .mockup-icon {
+  color: var(--accent-emerald);
 }
 
 .mockup-text {
@@ -1165,6 +1173,12 @@ button {
   font-size: 0.75rem;
   font-weight: 600;
   color: var(--accent-purple-light);
+}
+
+.project-badge--emerald {
+  background: rgba(16, 185, 129, 0.18);
+  border-color: rgba(16, 185, 129, 0.4);
+  color: var(--accent-emerald);
 }
 
 /* Project Card Content */
@@ -1211,6 +1225,7 @@ button {
   gap: 0.75rem;
   padding-top: 1rem;
   border-top: 1px solid var(--border-subtle);
+  flex-wrap: wrap;
 }
 
 /* --------------------------------------------------------------------------
@@ -2036,6 +2051,10 @@ button {
 @media screen and (max-width: 480px) {
   .hero__title {
     font-size: 2.25rem;
+  }
+
+  .projects__grid {
+    grid-template-columns: 1fr;
   }
 
   .avatar__card {

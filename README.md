@@ -70,10 +70,11 @@ Srinivasportfolio/
    - Editable skill tags with placeholder badges.
 
 4. **Projects**:
-   - Browser mockup preview frames.
+   - Browser mockup preview frames with modern glowing accent styling.
    - Project titles, descriptions, and technology stack pills.
    - Source code (GitHub) and Live Demo action buttons.
-   - Clean placeholders ready for Srinivas's real projects.
+   - Featured full-stack project card for **Personal Expense Tracker** (`https://github.com/24p61a0553/personalexpensetracker`).
+   - Clean placeholders ready for Srinivas's future engineering projects.
 
 5. **Education**:
    - Interactive academic timeline.
