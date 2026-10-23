@@ -70,11 +70,10 @@ Srinivasportfolio/
    - Editable skill tags with placeholder badges.
 
 4. **Projects**:
-   - Browser mockup preview frames with modern glowing accent styling.
-   - Project titles, descriptions, and technology stack pills.
-   - Source code (GitHub) and Live Demo action buttons.
-   - Featured full-stack project card for **Personal Expense Tracker** (`https://github.com/24p61a0553/personalexpensetracker`).
-   - Clean placeholders ready for Srinivas's future engineering projects.
+   - Featured full-stack project showcase for **Personal Expense Tracker** (`https://github.com/24p61a0553/personalexpensetracker`).
+   - Browser mockup preview frame with modern macOS window styling and emerald accents.
+   - Comprehensive project overview, technical details, and technology stack pills (Java 17, Servlets, JDBC, MySQL, Docker, Tomcat, Chart.js).
+   - Direct link to the source code on GitHub.
 
 5. **Education**:
    - Interactive academic timeline.
